@@ -1,0 +1,14 @@
+{
+  "itemGroup.money": "§o§lPlayer's Workshop:§r Money",
+
+  "item.playersworkshop.checkbook": "§9Checkbook",
+  "item.playersworkshop.gold_coin":"§6Gold Coin",
+  "item.playersworkshop.gold_dollar": "§6§lGold Dollar",
+  "item.playersworkshop.silver_coin": "§8Silver Coin",
+  "item.playersworkshop.silver_dollar": "§8§lSilver Dollar",
+  "item.playersworkshop.copper_coin": "§cCopper Coin",
+  "item.playersworkshop.copper_dollar": "§c§lCopper Dollar",
+  "item.playersworkshop.debit_card": "§bD§3e§9b§1i§5t §dC§4a§crd",
+
+  "block.playersworkshop.piggy_bank_block": "Piggy Bank"
+}
